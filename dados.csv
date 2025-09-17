@@ -1,5 +1,25 @@
-Nome,Idade,Cidade,Vendas,
-Ana,25,São Paulo,5000,
-João,30,Rio de Janeiro,6000,
-Maria,22,Belo Horizonte,2000,
-Carlos,35,Porto Alegre,4000,
+Meses,Vendas
+Janeiro-2023,185
+Fevereiro-2023,215
+Março-2023,225
+Abril-2023,255
+Maio-2023,275
+Junho-2023,245
+Julho-2023,420
+Agosto-2023,205
+Setembro-2023,195
+Outubro-2023,235
+Novembro-2023,315
+Dezembro-2023,365
+Janeiro-2024,210
+Fevereiro-2024,235
+Março-2024,245
+Abril-2024,285
+Maio-2024,305
+Junho-2024,265
+Julho-2024,150
+Agosto-2024,225
+Setembro-2024,215
+Outubro-2024,255
+Novembro-2024,345
+Dezembro-2024,395
